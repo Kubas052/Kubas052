@@ -15,8 +15,7 @@ I am a computer science student and a Python developer based in Poland, passiona
 
 ## 🧪 Projects I'm working on:
 
-- 🔹 **ShopSphere** – a scalable e-commerce platform (learning Django REST Framework)
-- 🔹 **PV_APP** – monitor your solar panel stats with a modern dashboard
+- 🔹 **CartForge** – a scalable e-commerce platform (learning Django REST Framework)
 
 Check out my [repositories](https://github.com/kubas052?tab=repositories) for more!
 
