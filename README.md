@@ -22,7 +22,7 @@ Check out my [repositories](https://github.com/kubas052?tab=repositories) for mo
 ---
 
 ## 🌍 Where to find me:
-- Website: [k052.tech](https://k052.tech)
+- Website: [kubas052.tech](https://kubas052.tech)
 - LinkedIn: [Mateusz Poradzisz](https://www.linkedin.com/in/mateusz-poradzisz/)
 - GitHub: [@kubas052](https://github.com/kubas052)
 
